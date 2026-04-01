@@ -1,0 +1,241 @@
+Age
+Weight
+Heart_Rate
+Animal_Type_Cow
+Animal_Type_Dog
+Animal_Type_Goat
+Animal_Type_Horse
+Animal_Type_Pig
+Animal_Type_Rabbit
+Animal_Type_Sheep
+Breed_Abyssinian
+Breed_Akita
+Breed_Alpine
+Breed_American Curl
+Breed_American Quarter
+Breed_Andalusian
+Breed_Angora
+Breed_Angus
+Breed_Appaloosa
+Breed_Arabian
+Breed_Ayrshire
+Breed_Beagle
+Breed_Belgian
+Breed_Belted Galloway
+Breed_Bengal
+Breed_Berkshire
+Breed_Blackface
+Breed_Boer
+Breed_Bombay
+Breed_Border Collie
+Breed_Border Leicester
+Breed_Boxer
+Breed_Brahman
+Breed_British Shorthair
+Breed_Brown Swiss
+Breed_Bulldog
+Breed_Burmese
+Breed_Charolais
+Breed_Chester White
+Breed_Cheviot
+Breed_Chihuahua
+Breed_Clydesdale
+Breed_Cocker Spaniel
+Breed_Corgi
+Breed_Corriedale
+Breed_Dachshund
+Breed_Dalmatian
+Breed_Devon Rex
+Breed_Dexter
+Breed_Doberman Pinscher
+Breed_Dorper
+Breed_Dorset
+Breed_Duroc
+Breed_Dutch
+Breed_English Angora
+Breed_English Lop
+Breed_English Spot
+Breed_Finnsheep
+Breed_Flemish Giant
+Breed_German Shepherd
+Breed_Golden Retriever
+Breed_Guernsey
+Breed_Hampshire
+Breed_Hereford
+Breed_Himalayan
+Breed_Holland Lop
+Breed_Holstein
+Breed_Husky
+Breed_Jersey
+Breed_Karakul
+Breed_Kiko
+Breed_LaMancha
+Breed_Labrador
+Breed_Labrador Retriever
+Breed_Landrace
+Breed_Large White
+Breed_Leicester Longwool
+Breed_Limousin
+Breed_Lincoln
+Breed_Maine Coon
+Breed_Manx
+Breed_Merino
+Breed_Mini Lop
+Breed_Mini Rex
+Breed_Morgan
+Breed_Mustang
+Breed_Nigerian Dwarf
+Breed_Nubian
+Breed_Paint
+Breed_Percheron
+Breed_Persian
+Breed_Pietrain
+Breed_Pinto
+Breed_Pit Bull
+Breed_Poland China
+Breed_Poodle
+Breed_Quarter Horse
+Breed_Ragdoll
+Breed_Rambouillet
+Breed_Red Angus
+Breed_Red Poll
+Breed_Romney
+Breed_Rottweiler
+Breed_Russian Blue
+Breed_Saanen
+Breed_Scottish Fold
+Breed_Shetland Pony
+Breed_Shih Tzu
+Breed_Shire
+Breed_Shorthorn
+Breed_Siamese
+Breed_Siberian
+Breed_Siberian Husky
+Breed_Simmental
+Breed_Southdown
+Breed_Sphynx
+Breed_Standardbred
+Breed_Suffolk
+Breed_Tamworth
+Breed_Tennessee Walker
+Breed_Tennessee Walking Horse
+Breed_Texel
+Breed_Thoroughbred
+Breed_Toggenburg
+Breed_Tunis
+Breed_Welsh Pony
+Breed_Wessex Saddleback
+Breed_Yorkshire
+Breed_Yorkshire Terrier
+Gender_Male
+Symptom_1_Coughing
+Symptom_1_Decreased Milk Yield
+Symptom_1_Diarrhea
+Symptom_1_Eye Discharge
+Symptom_1_Fever
+Symptom_1_Labored Breathing
+Symptom_1_Lameness
+Symptom_1_Lethargy
+Symptom_1_Loss of Appetite
+Symptom_1_Nasal Discharge
+Symptom_1_Skin Lesions
+Symptom_1_Sneezing
+Symptom_1_Swollen Joints
+Symptom_1_Vomiting
+Symptom_1_Weight Loss
+Symptom_2_Coughing
+Symptom_2_Decreased Milk Yield
+Symptom_2_Dehydration
+Symptom_2_Diarrhea
+Symptom_2_Eye Discharge
+Symptom_2_Fever
+Symptom_2_Labored Breathing
+Symptom_2_Lameness
+Symptom_2_Lethargy
+Symptom_2_Loss of Appetite
+Symptom_2_Nasal Discharge
+Symptom_2_Reduced Milk Production
+Symptom_2_Reduced Wool Production
+Symptom_2_Sneezing
+Symptom_2_Swelling
+Symptom_2_Swollen Joints
+Symptom_2_Swollen Legs
+Symptom_2_Vomiting
+Symptom_2_Weight Loss
+Symptom_3_Coughing
+Symptom_3_Decreased Milk Yield
+Symptom_3_Dehydration
+Symptom_3_Diarrhea
+Symptom_3_Eye Discharge
+Symptom_3_Fever
+Symptom_3_Labored Breathing
+Symptom_3_Lethargy
+Symptom_3_Loss of Appetite
+Symptom_3_Nasal Discharge
+Symptom_3_Reduced Appetite
+Symptom_3_Skin Lesions
+Symptom_3_Sneezing
+Symptom_3_Swollen Joints
+Symptom_3_Swollen Legs
+Symptom_3_Vomiting
+Symptom_3_Weight Loss
+Symptom_4_Coughing
+Symptom_4_Decreased Milk Yield
+Symptom_4_Dehydration
+Symptom_4_Diarrhea
+Symptom_4_Eye Discharge
+Symptom_4_Fever
+Symptom_4_Labored Breathing
+Symptom_4_Lameness
+Symptom_4_Lethargy
+Symptom_4_Loss of Appetite
+Symptom_4_Nasal Discharge
+Symptom_4_No
+Symptom_4_Reduced Appetite
+Symptom_4_Reduced Milk Production
+Symptom_4_Reduced Mobility
+Symptom_4_Reduced Wool Growth
+Symptom_4_Skin Lesions
+Symptom_4_Sneezing
+Symptom_4_Swollen Joints
+Symptom_4_Swollen Legs
+Symptom_4_Vomiting
+Symptom_4_Weight Loss
+Duration_10 days
+Duration_12 days
+Duration_2 days
+Duration_2 weeks
+Duration_3 days
+Duration_4 days
+Duration_5 days
+Duration_6 days
+Duration_7 days
+Duration_8 days
+Duration_9 days
+Appetite_Loss_Yes
+Vomiting_Yes
+Diarrhea_Yes
+Coughing_Yes
+Labored_Breathing_Yes
+Lameness_Yes
+Skin_Lesions_Yes
+Nasal_Discharge_Yes
+Eye_Discharge_Yes
+Body_Temperature_38.5°C
+Body_Temperature_38.6°C
+Body_Temperature_38.7°C
+Body_Temperature_38.8°C
+Body_Temperature_38.9°C
+Body_Temperature_39.0°C
+Body_Temperature_39.1°C
+Body_Temperature_39.2°C
+Body_Temperature_39.3°C
+Body_Temperature_39.4°C
+Body_Temperature_39.5°C
+Body_Temperature_39.6°C
+Body_Temperature_39.7°C
+Body_Temperature_39.8°C
+Body_Temperature_39.9°C
+Body_Temperature_40.0°C
+Body_Temperature_40.1°C
+Body_Temperature_40.2°C

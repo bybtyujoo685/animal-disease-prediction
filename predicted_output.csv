@@ -1,0 +1,25 @@
+Animal_Type,Breed,Age,Gender,Weight,Symptom_1,Symptom_2,Symptom_3,Symptom_4,Duration,Appetite_Loss,Vomiting,Diarrhea,Coughing,Labored_Breathing,Lameness,Skin_Lesions,Nasal_Discharge,Eye_Discharge,Body_Temperature,Heart_Rate,Predicted_Disease
+Cat,Maine Coon,8.980564023,Male,6.486496835,Lethargy,Appetite Loss,Weight Loss,Dehydration,8 days,Yes,Yes,Yes,No,No,No,Yes,Yes,No,39.0°C,140.0086728,Feline Renal Disease
+Dog,Siberian Husky,6.0,Male,28.0,Lameness,Fever,Skin Lesions,Lethargy,8 days,Yes,No,No,No,No,Yes,Yes,No,No,39.3°C,120.0,Tick-Borne Disease
+Horse,Clydesdale,10.0,Male,700.0,Coughing,Nasal Discharge,Labored Breathing,Fever,2 weeks,Yes,No,No,Yes,Yes,No,No,Yes,No,40.2°C,85.0,Equine Influenza
+Dog,Labrador,4.023994328,Male,24.9786642,Fever,Lethargy,Appetite Loss,Vomiting,3 days,Yes,Yes,No,No,No,No,No,No,No,39.5°C,119.993049,Parvovirus
+Cow,Guernsey,3.994074631,Male,590.002123,Appetite Loss,Lethargy,Diarrhea,Dehydration,5 days,Yes,No,No,Yes,No,No,Yes,No,No,39.3°C,83.98983274,Bovine Coccidiosis
+Pig,Wessex Saddleback,2.986302862,Male,105.0086411,Vomiting,Fever,Loss of Appetite,Lethargy,5 days,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,39.0°C,84.01420836,Actinobacillus Suis
+Sheep,Cheviot,4.010140537,Male,84.99660435,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,39.3°C,95.03499357,Blue Tongue Disease
+Goat,Toggenburg,7.0,Female,65.0,Diarrhea,Dehydration,Lethargy,Appetite Loss,5 days,Yes,Yes,No,Yes,No,Yes,No,Yes,No,39.3°C,80.0,Coccidiosis
+Rabbit,Dutch,2.992377254,Male,2.001824696,Sneezing,Loss of Appetite,Nasal Discharge,Fever,4 days,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,39.1°C,150.0165776,Respiratory Infection
+Goat,Nubian,3.982875586,Female,80.00954924,Vomiting,Diarrhea,Lethargy,Fever,6 days,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,39.5°C,94.99239642,Caprine Respiratory Disease
+Horse,Thoroughbred,5.953377678,Female,650.0237666,Lameness,Swollen Legs,Loss of Appetite,Fever,6 days,Yes,No,Yes,No,Yes,No,Yes,Yes,No,39.3°C,83.96551457,Equine Influenza Virus
+Cat,Maine Coon,2.02410866,Male,5.974744768,Vomiting,Appetite Loss,Lethargy,Diarrhea,4 days,Yes,Yes,Yes,No,No,No,No,No,No,39.1°C,140.0130366,Intestinal Parasites
+Goat,Boer,4.979003684,Male,85.00295998,Vomiting,Diarrhea,Lethargy,Fever,5 days,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,39.6°C,95.00875643,Caprine Pleuropneumonia
+Horse,Arabian,9.006580887,Female,459.9753819,Lameness,Swollen Joints,Loss of Appetite,Reduced Mobility,6 days,No,Yes,No,No,Yes,Yes,No,Yes,Yes,39.6°C,77.9770368,Equine Lyme Disease
+Sheep,Merino,3.976070538,Male,74.97444672,Coughing,Labored Breathing,Nasal Discharge,Fever,4 days,Yes,No,No,Yes,No,Yes,Yes,No,No,40.0°C,77.9803025,Pneumonia
+Cat,Maine Coon,5.016124389,Male,8.495388844,Coughing,Loss of Appetite,Lethargy,Fever,3 days,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,39.1°C,145.0603616,Feline Leukemia Virus
+Sheep,Suffolk,3.965774968,Male,85.02545235,Coughing,Loss of Appetite,Lethargy,Fever,5 days,Yes,Yes,No,Yes,No,No,Yes,Yes,No,39.4°C,77.99498495,Contagious Abortion
+Dog,Doberman Pinscher,6.0,Male,40.0,Vomiting,Lethargy,Loss of Appetite,Coughing,5 days,Yes,Yes,No,Yes,No,No,Yes,Yes,No,39.3°C,119.0,Canine Parvovirus
+Horse,Appaloosa,6.013831831,Female,519.9817989,Lameness,Fever,Skin Lesions,Appetite Loss,5 days,No,No,No,No,No,Yes,Yes,No,No,39.8°C,75.983721,Equine Piroplasmosis
+Rabbit,Mini Rex,1.9645111,Male,1.597941668,Diarrhea,Loss of Appetite,Dehydration,Weight Loss,3 days,No,Yes,No,Yes,No,Yes,No,No,Yes,38.5°C,154.9787314,Enteritis
+Cow,Guernsey,5.003709885,Female,449.994355,Coughing,Loss of Appetite,Lethargy,Fever,4 days,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,39.0°C,77.98752164,Bovine Parainfluenza
+Sheep,Merino,7.005942413,Male,90.01536021,Coughing,Loss of Appetite,Lethargy,Fever,6 days,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,39.4°C,90.00197403,Scrapie
+Dog,Cocker Spaniel,2.045535547,Female,9.999236865,Lethargy,Vomiting,Loss of Appetite,Fever,3 days,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,39.0°C,124.9844935,Distemper
+Cow,Guernsey,4.023261465,Male,589.9965277,Appetite Loss,Lethargy,Diarrhea,Dehydration,5 days,Yes,No,No,Yes,No,No,Yes,No,No,39.3°C,84.00029774,Bovine Coccidiosis
